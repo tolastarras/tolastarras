@@ -1,7 +1,7 @@
 ### Hi there! I'm Rafael 👋
 
 ### About Me
-Full Stack Developer based in Jacksonville, Florida. I enjoy building everything from small business websites to rich interactive web applications. As a dynamic and detail-oriented developer, I specialize in creating elegant, reliable, and user-friendly solutions efficiently.
+I am a full Stack Developer based in Jacksonville, Florida. I enjoy building everything from small business websites to rich interactive web applications. As a dynamic and detail-oriented developer, I specialize in creating elegant, reliable, and user-friendly solutions efficiently.
 
 ## 🛠️ Tech Stack
 
