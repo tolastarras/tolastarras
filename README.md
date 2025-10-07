@@ -4,11 +4,26 @@
 I am a Full Stack Developer from Jacksonville, Florida. I enjoy building everything from small business sites to rich interactive web apps.
 I am a dynamic and detail-oriented full stack developer who likes to build elegant, reliable and user-friendly solutions effectivelly and efficiently.
 
-### Tech Stack
-- Languages: JavaScript, PHP, HTML, Sass.
-- Frameworks & Libraries: Symphony, Laravel, Slim, VueJs, Vuetify, AdonisJs, Express, Loopback, Bootstrap, Bulma, Ruby on Rails, JQuery, ReactJs.
-- Storage: MySQL, Redis, Firebase, MongoDB, PostgreSQL, SQLite.
-- Other Tools: WordPress, Node.js, Webpack, Gulp, Git, Composer, Yarn, NPM, Vagrant, Docker, XAMPP.
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+- **Languages:** JavaScript, HTML5, Sass, CSS3
+- **Frameworks:** React.js, Vue.js, jQuery
+- **UI Libraries:** Vuetify, Bootstrap, Bulma, TailwindCSS
+
+### 🔧 Backend Development  
+- **JavaScript:** Node.js, Express.js, AdonisJS, Loopback
+- **PHP:** Laravel, Symfony, Slim
+- **Ruby:** Ruby on Rails
+
+### 🗄️ Databases
+- **SQL:** MySQL, PostgreSQL, SQLite
+- **NoSQL:** MongoDB, Redis, Firebase
+
+### ⚙️ DevOps & Tools
+- **Containerization:** Docker, Vagrant
+- **Package Managers:** NPM, Yarn, Composer
+- **Version Control:** Git
 
 <br/>
 
