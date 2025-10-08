@@ -1,3 +1,6 @@
+![git-profile](https://github.com/user-attachments/assets/b95d85dd-996d-480e-8698-a7408b210884)
+
+
 ### Hi there! I'm Rafael 👋
 
 ### About Me
