@@ -29,12 +29,12 @@ I am a full Stack Developer based in Jacksonville, Florida. I enjoy building eve
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white"><br>
 <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white">
 <img src="https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
 <br>
 </p>
 
