@@ -1,4 +1,4 @@
-![github-banner](https://github.com/user-attachments/assets/4f9cb41b-58f2-4738-a11c-859fc616467b)
+![github-banner](https://github.com/user-attachments/assets/1159eb32-5d6a-4e64-9379-a44146f296ac)
 
 
 ### Hi there! I'm Rafael 👋
