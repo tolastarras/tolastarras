@@ -45,7 +45,7 @@ I am a full Stack Developer based in Jacksonville, Florida. I enjoy building eve
 
 ### ⚙️ GitHub Analytics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tolastarras&show_icons=true&theme=&hide_border=true&hide=contribs) ![My Programing Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tolastarras&layout=compact&langs_count=8&theme=&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tolastarras&show_icons=true&theme=default&hide_border=true&hide=contribs) ![Programing Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tolastarras&layout=compact&langs_count=8&theme=&hide_border=true)
 
 
 <!--
